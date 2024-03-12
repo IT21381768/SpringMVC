@@ -1,8 +1,11 @@
 Welcome to the Employee Management System project repository! This project aims to provide a streamlined solution for managing employee information efficiently. The system encompasses both frontend and backend components, offering user-friendly interfaces and robust functionality.
 
 **Technologies Used:**
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Java, Spring MVC, Spring Data JPA, Maven
+
 Database: MySQL
 
 
