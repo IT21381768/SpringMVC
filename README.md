@@ -5,6 +5,8 @@ Frontend: HTML, CSS, JavaScript
 Backend: Java, Spring MVC, Spring Data JPA, Maven
 Database: MySQL
 
+
+
 **Getting Started:**
 1. Clone the repository.
 2. Refresh Maven dependencies.
